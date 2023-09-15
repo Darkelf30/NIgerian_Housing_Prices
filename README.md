@@ -50,9 +50,42 @@ Data Model
 ![](Data_Model.png)
 
 ## Data Analysis and Visualization
-The analysis steps were carried out in Excel using Pivot Tables and Pivot charts. The dashboard that was designed can be found and interacted with [here](Analysis File.xls). This workbook consists of the following sheets:
+The analysis steps were carried out in Excel using Pivot Tables and Pivot charts. The dashboard that was designed can be found and interacted with [here](Analysis.xlsx). This workbook consists of the following sheets:
 1.  The Home Page with some interactive buttons for navigation
 2.  The Interactive Dashboard
 3.  The Raw Data (named Raw Data)
-4.  The Transformed Data (named Insurance Policies - Data)
-5.  Other sheets containing the Pivot tables and pivot charts
+4.  The Transformed Data (named Nigerian houses data)
+5.  The Zones data which was used to build the data model
+6.  Other sheets containing the Pivot tables and pivot charts
+
+### Home Page:
+![](Home_Page.png)
+This page contains a welcome picture as well as two buttons for navigation to:
+-  Dashboard
+-  Transformed Data
+
+### Dashboard:
+![](Dashboard.png)
+This page contains the following:
+- title
+- the filters
+- the various interactive pivot charts
+- the navigation buttons close to the dashboard title
+
+## Insights
+1.  The average price of a house in Nigeria is a little over NGN300 million for the over 24,000 houses surveyed.
+2.  A prospective house buyer in Nigeria can expect 4 bedrooms and 4 bathrooms on average
+3.  A prospective house buyer in Nigeria can expect parking space to hold about 4 cars
+4.  Houses in the South Western region of Nigeria are the most expensive with an approximate average price of NGN326 million
+5.  Houses in the North West region of Nigeria are the least expensive with an approximate average price of NGN32 million
+6.  Detached Duplexes cost the most while semi detached bungalows cost the least
+7.  Lagos, Abuja and Rivers have the most expensive houses in Nigeria
+8.  Houses with more bedrooms and bathrooms are more expensive (although this is a no-brainer)
+
+## Recommendations
+1.  Mortgage plans should be introduced for propsective buyers with flexible paying plans which account for eventual loss of Jobs or other means of livelihood of the house buyer.
+2.  Prospective house buyers who don't mind relocating should target the South Eastern region as this is not just a major economic hub but also has the least expensive houses
+
+## Limitations of the analysis
+Less data was collected for states and cities in the Northern part of the country. In fact, data for states like Taraba, Jigawa, and so on don't exist
+This data doesn;t account for the econmic metrics of the different states as this will better help prospective buyers assess whether moving to another region due to affordable hiosuing will be worth it in the long run
