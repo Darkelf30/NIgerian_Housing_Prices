@@ -88,4 +88,4 @@ This page contains the following:
 
 ## Limitations of the analysis
 Less data was collected for states and cities in the Northern part of the country. In fact, data for states like Taraba, Jigawa, and so on don't exist
-This data doesn;t account for the econmic metrics of the different states as this will better help prospective buyers assess whether moving to another region due to affordable hiosuing will be worth it in the long run
+This data doesn't account for the econmic metrics of the different states as this will better help prospective buyers assess whether moving to another region due to affordable housing will be worth it in the long run. Also, there was no date/datetime field to represent the dates for which the data was collected which could have helped to observe trends in the prices of houses in Nigeria. Also, some individuals are not interested in buying houses but in renting. However, this dataset doesn't account for houses rented out to tenants.
